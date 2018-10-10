@@ -2,9 +2,9 @@
 title: USE WEB STORAGE WITH JAVASCRIPT
 ---
 
-
+<h2 align="center">USE WEB STORAGE WITH JAVASCRIPT</h2>
 <p align="center">
-  <h2>USE WEB STORAGE WITH JAVASCRIPT</h2>
+  
   <img  width="200" src="https://i.imgur.com/Io7TaLm.png" title="jslogo" align="center"/>
 </p>
 
