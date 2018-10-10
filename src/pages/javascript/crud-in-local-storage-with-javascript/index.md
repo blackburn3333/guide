@@ -1,5 +1,5 @@
 ---
-title: USE WEB STORAGE WITH JAVASCRIPT
+title: Use local storage with javascript
 ---
 
 <h2 align="center">USE WEB STORAGE WITH JAVASCRIPT</h2>
