@@ -1,8 +1,9 @@
-
 ---
 title: USE WEB STORAGE WITH JAVASCRIPT
 ---
 ## USE WEB STORAGE WITH JAVASCRIPT
+
+
 <p align="center">
   <img  width="200" src="https://i.imgur.com/Io7TaLm.png" title="jslogo" align="center"/>
 </p>
